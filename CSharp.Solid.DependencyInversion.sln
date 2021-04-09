@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Solid.DependencyInve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Solid.DependencyInversion.ModelsBad", "CSharp.Solid.DependencyInversion.Models\CSharp.Solid.DependencyInversion.ModelsBad.csproj", "{5436EF03-2C98-441D-94DD-CBDB679CD101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Solid.DependencyInversion.ModelsGood", "CSharp.Solid.DependencyInversion.ModelsGood\CSharp.Solid.DependencyInversion.ModelsGood.csproj", "{98BDD967-5EC4-482E-B84B-1D27098981E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5436EF03-2C98-441D-94DD-CBDB679CD101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5436EF03-2C98-441D-94DD-CBDB679CD101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5436EF03-2C98-441D-94DD-CBDB679CD101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BDD967-5EC4-482E-B84B-1D27098981E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BDD967-5EC4-482E-B84B-1D27098981E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BDD967-5EC4-482E-B84B-1D27098981E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BDD967-5EC4-482E-B84B-1D27098981E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
