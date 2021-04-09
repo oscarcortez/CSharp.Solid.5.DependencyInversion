@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp.Solid.DependencyInversion.Models
+namespace CSharp.Solid.DependencyInversion.ModelsBad
 {
     public class Email
     {
